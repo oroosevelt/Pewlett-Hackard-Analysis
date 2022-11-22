@@ -1,9 +1,5 @@
 # Pewlett-Hackard-Analysis
-
-
-
-# Crowdfunding-ETL
-###### SQL
+## Using pgAdmin 4 - SQL
 By: Omie Roosevelt
 
 
