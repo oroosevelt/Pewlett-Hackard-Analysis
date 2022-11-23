@@ -1,13 +1,12 @@
 # Pewlett-Hackard-Analysis
-## Using pgAdmin 4 - SQL
-By: Omie Roosevelt
+#### Using pgAdmin 4 - SQL
+###### By: Omie Roosevelt
 
 
-![image_1a](https://github.com/oroosevelt/Crowdfunding-ETL/blob/main/deliverable_1.png)
 
-![image_1b](https://github.com/oroosevelt/Crowdfunding-ETL/blob/main/deliverable_1b.png)
+![image_1b](https://github.com/oroosevelt/Pewlett-Hackard-Analysis/blob/main/deliverable_1b.png)
 
-![image_2](https://github.com/oroosevelt/Crowdfunding-ETL/blob/main/deliverable_2.png)
+![image_2](https://github.com/oroosevelt/Pewlett-Hackard-Analysis/blob/main/deliverable_2.png)
 
 
 # Overview
@@ -31,11 +30,11 @@ Provide high-level responses to the following questions, then provide two additi
 
 
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-![image_1c](https://github.com/oroosevelt/Crowdfunding-ETL/blob/main/deliverable_1c.png)
+![image_1c](https://github.com/oroosevelt/Pewlett-Hackard-Analysis/blob/main/deliverable_1c.png)
 
 
 Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 
-![image_2a](https://github.com/oroosevelt/Crowdfunding-ETL/blob/main/deliverable_2a.png)
+![image_2a](https://github.com/oroosevelt/Pewlett-Hackard-Analysis/blob/main/deliverable_2a.png)
 
